@@ -72,7 +72,7 @@ text-transform: capitalize;
 }
 .BG-image{
     display: flex;
-    background-image: url('../image/pair.svg');
+    background-image: url('./image/pair.svg');
     width:800px;
     height: 526px;
     background-position: right;
