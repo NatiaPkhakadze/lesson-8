@@ -73,12 +73,10 @@ text-transform: capitalize;
 .BG-image{
     display: flex;
     background-image: url('./image/pair.svg');
-    width:800px;
-    height: 526px;
+    width:50%;
     background-position: right;
     background-repeat: no-repeat;
-
-    
+    background-size: 100% 100%;    
 }
     
 
@@ -87,6 +85,10 @@ text-transform: capitalize;
     display: flex;
     width: fit-content;
     gap: 29px;
+}
+.box-1 {
+    width: 50%;
+
 }
 .box-2 {
     display: flex;
